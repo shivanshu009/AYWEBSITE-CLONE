@@ -1,0 +1,128 @@
+.fontBase{
+    font-family:Poppins, sans-serif;  
+}
+
+.textStyle{
+    font-family:Poppins sans-serif;
+    font-weight: bolder;
+}
+.google_play_img{
+    width:'100px';
+    height :'40px';
+    
+}
+.promotional-video-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh; 
+    background-color: gray;
+  }
+  
+  .promotional-video-container h1 {
+    color: white; 
+    font-family: "Poppins-Medium", Helvetica;
+
+  }
+@media screen and (max-width:600px) and (min-width:300px){
+    .hero-section{
+        gap: 50px;
+    }
+    .hero-text-container{
+        gap: 20px;
+        align-items: center;
+   justify-content: center;
+   
+    }
+.hero-section h2{
+    font-size: 28px;
+   margin-top: 0px;
+   margin-left: 32px;
+   
+}
+.hero-section br{
+    display: none;
+}
+.hero-section h6{
+   
+  
+   margin-left: 32px;
+
+}
+.hero-description{
+    gap:50px;
+  margin-top: 100px;
+    font-size: 13px;
+    width: 296px;
+}
+.hero-image-container{
+  margin-top: 50px;
+height: 275px;
+width: 185px;
+}
+.hero-image{
+    height: 207px;
+    width: 198px;
+    left: 65px;
+}
+.promotional-video-container h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   transform: translate(-50,-50);
+  font-size: 24px;
+    width: 296px;
+}
+
+.on-the-go-text-container{
+    gap: 20px;
+    align-items: center;
+justify-content: center;
+}
+.on-the-go-container-fontBase h4{
+    margin-top: -80px;
+    font-size: 17px;
+}
+.on-the-go-container-fontBase h6{
+   display: none;
+}
+.on-the-go-subtitle{
+    font-size: 13px;
+    width: 281px;
+}
+
+.google-play-img{
+  
+display: none;
+
+    
+}
+    .on-the-go-image-container{
+        display: flex;
+        height: 331px;
+        width: 169px;
+        margin-top: 0px;
+    }
+.phone-image{
+    height: 300px;
+    width: 250px;
+    margin-top: 00px;
+}
+
+
+.promotional-video-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh; 
+    background-color: gray;
+  }
+  
+  .promotional-video-container h1 {
+    color: white; 
+    font-family: "Poppins-Medium", Helvetica;
+
+  }
+  
+  
+}

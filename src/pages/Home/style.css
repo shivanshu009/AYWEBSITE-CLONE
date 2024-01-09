@@ -1,0 +1,476 @@
+
+.separator {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-family: 'Poppins', sans-serif; 
+}
+
+.separator::before,
+.separator::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #000;
+}
+
+.separator:not(:empty)::before {
+  margin-right: .25em;
+}
+
+.separator:not(:empty)::after {
+  margin-left: .25em;
+}
+
+.footer {
+  background-color: transparent;
+  height: 493px;
+  left: 21px;
+  position: absolute;
+  top: 5800px;
+  width: 1956px;
+}
+
+.overlap-group-2 {
+  background: linear-gradient(180deg, rgb(107.53, 234.6, 165.77) 0%, rgba(83.15, 212.29, 142.34, 0) 100%);
+  height: 493px;
+  position: relative;
+  width: 1855px;
+}
+
+.vision-values-app {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 555px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+}
+
+.text-wrapper-26 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 555px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 259px;
+}
+
+.text-wrapper-27 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 1046px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.frame-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 35px;
+  left: 17px;
+  position: absolute;
+  top: 12px;
+}
+
+.whatsapp-image-2 {
+  height: 80px;
+  object-fit: cover;
+  position: relative;
+  width: 80px;
+}
+
+.text-wrapper-28 {
+  color: #19851e;
+  font-family: "Ruluko-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.we-envisage-a-rich {
+  color: #000000;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 19.2px;
+  font-weight: 400;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 119px;
+  width: 274px;
+}
+
+.text-wrapper-29 {
+  color: #000000;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 19.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.line-6 {
+  height: 1px;
+  left: 555px;
+  object-fit: cover;
+  position: absolute;
+  top: 227px;
+  width: 355px;
+} 
+
+.iconsax-bold {
+  height: 24px;
+  left: 555px;
+  position: absolute;
+  top: 332px;
+  width: 24px;
+}
+
+.iconsax-bold-2 {
+  height: 24px;
+  left: 624px;
+  position: absolute;
+  top: 332px;
+  width: 24px;
+}
+
+.iconsax-bold-youtube {
+  height: 24px;
+  left: 692px;
+  position: absolute;
+  top: 332px;
+  width: 24px;
+}
+
+.vision .image {
+  height: 104px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 373px;
+  width: 367px;
+}
+
+.div-wrapper {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 54px;
+  left: 1013px;
+  position: absolute;
+  top: 103px;
+  width: 325px;
+}
+
+.text-wrapper-30 {
+  color: #000000;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 16px;
+}
+
+.overlap-9 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 54px;
+  left: 1013px;
+  position: absolute;
+  top: 166px;
+  width: 325px;
+}
+
+.overlap-10 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 54px;
+  left: 1013px;
+  position: absolute;
+  top: 229px;
+  width: 325px;
+}
+
+.overlap-11 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 108px;
+  left: 1013px;
+  position: absolute;
+  top: 292px;
+  width: 325px;
+}
+
+.text-wrapper-31 {
+  color: #000000;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 16px;
+  width: 137px;
+}
+
+.frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 1004px;
+  position: absolute;
+  top: 409px;
+  background-color: #0e6011;
+  border-radius: 40px;
+  height: 54px;
+  position: relative;
+  width: 343px;
+}
+
+
+
+.text-wrapper-32 {
+  color: #ffffff;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+.google_play_image{
+  margin-left: 500px;
+  margin-top: 380px;
+}
+@media screen and (max-width:600px) and (min-width:300px){
+   .footer {
+    background-color: transparent;
+    /* background-color: #c70b0b; */
+    height: 1127px;
+    left: 0px;
+    position: relative;
+    padding: auto;
+   top: -80px;
+    width: 460px;
+  }
+   .overlap-group-2 {
+    background: linear-gradient(180deg, rgb(107.53, 234.6, 165.77) 0%, rgba(83.15, 212.29, 142.34, 0) 100%);
+    /* background-color: #f81313; */
+    height: 1100px;
+    position: relative;
+    width: 460px;
+  }
+    .frame-2 {
+    
+    display: inline-flex;
+    gap: 35px;
+    left: 17px;
+    position: absolute;
+    top: 12px;
+  }
+   .whatsapp-image-2 {
+    height: 50px;
+    object-fit: cover;
+    position: relative;
+    width: 50px;
+  }
+   .text-wrapper-28 {
+    display: flex;
+    flex-direction: row;
+    color: #19851e;
+    font-family: "Ruluko-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: -5px;
+    top: 0px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+ 
+   .we-envisage-a-rich {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12.2px;
+    font-weight: 400;
+    left: 90px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 69px;
+    width: 200px;
+  }
+   .text-wrapper-29 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12.2px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  .text-wrapper-26 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 259px;
+  }
+  .google_play_image {
+    height: 51px;
+    left: -333px;
+    object-fit: cover;
+    position: absolute;
+    top: -140px;
+    width: 149px;
+  }
+ .iconsax-bold {
+    height: 24px;
+    left: 24px;
+    position: absolute;
+    top: 332px;
+    width: 24px;
+  }
+  
+ .iconsax-bold-2 {
+    height: 24px;
+    left: 73px;
+    position: absolute;
+    top: 332px;
+    width: 24px;
+  }
+  
+ .iconsax-bold-youtube {
+    height: 24px;
+    left: 122px;
+    position: absolute;
+    top: 332px;
+    width: 24px;
+  }
+ .vision-values-app {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 459px;
+  }
+   .text-wrapper-27 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 629px;
+  }
+   .div-wrapper {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 39px;
+    left: 35px;
+    position: absolute;
+    top: 680px;
+    width: 229px;
+  }
+   .overlap-9 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 39px;
+    left: 35px;
+    position: absolute;
+    top: 740px;
+    width: 229px;
+  }
+  
+   .overlap-10 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 39px;
+    left: 35px;
+    position: absolute;
+    top: 800px;
+    width: 229px;
+  }
+  
+   .overlap-11 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 77px;
+    left: 35px;
+    position: absolute;
+    top: 860px;
+    width: 229px;
+  }
+   .frame-3 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 70px;
+    height: 51px;
+    position: relative;
+    top: 960px;
+    border-radius: 40px;
+    width: 143px;
+  }
+
+   .text-wrapper-32 {
+    color: #ffffff;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+  }
+   .my-1{
+    margin-top: 350px;
+    background-color: black;
+    height: 3px;
+    left: 0;
+    width: 400px;
+
+  }
+   .my-2{
+    margin-top: 180px;
+    background-color: black;
+    height: 3px;
+    width: 400px;
+  }
+}
+
